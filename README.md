@@ -12,7 +12,7 @@ Este repositório contém apenas a **vitrine visual** do projeto JingleMagico, u
 
 ## 🔗 Links
 
-- 🌐 **[Ver Vitrine Online](https://davidassef.github.io/JingleMagico-Vitrine/)**
+- 🌐 **[Ver Vitrine Online](https://www.jinglemagico.com.br/)**
 
 ## 🎯 Objetivo
 
@@ -24,7 +24,7 @@ Esta vitrine serve para:
 
 ## 🚀 Como Visualizar
 
-Acesse diretamente: [https://davidassef.github.io/JingleMagico-Vitrine/](https:/www.jinglemagico.com.br/)
+Acesse diretamente: [Jingle Mágico](https:/www.jinglemagico.com.br/)
 
 ## 📄 Licença
 
