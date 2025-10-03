@@ -28,4 +28,4 @@ Acesse diretamente: [Jingle Mágico](https:/www.jinglemagico.com.br/)
 
 ## 📄 Licença
 
-© 202 Jingle Mágico - Todos os direitos reservados
+© 2025 Jingle Mágico - Todos os direitos reservados
